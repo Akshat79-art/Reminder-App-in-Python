@@ -7,7 +7,7 @@ Time,Task
 i.e without space after comma, time in 24 hr format  
 
 To run this program you will need win10toast library   
-You can do it by using command pip install win10toast   
+Install the library using command pip install win10toast   
 Requirements: Installation of pywin32  
 If the code still shows error such as win10toast not able to resolve  
 Then copy the win10toast folder to your directory  
